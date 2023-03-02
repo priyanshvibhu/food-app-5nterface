@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">food app</string>
+    <string name="dunhill">Bumpy</string>
+    <string name="international">Burgers</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="password">******</string>
+    <string name="register">Register</string>
+    <string name="or_with">Or With</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="xyz_gmail_com">xyz@gmail.com</string>
+    <string name="_91">+91</string>
+    <string name="already_have_account_login">Already have account?Login</string>
+    <string name="user_name">User name</string>
+    <string name="todo">TODO</string>
+    <string name="signin">SignIn</string>
+</resources>
